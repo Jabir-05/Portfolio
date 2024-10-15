@@ -111,14 +111,14 @@ background:rgb(92, 35, 166)
     width: 160%;
    top: -170%;
     left: 60%;
-    transform: translate(-50%);
+    transform: translate(-55%);
     bottom: 0;
-    transition: left 2s ease;
+    /* transition: width 2s, height 5s; */
 }
-.image:hover.jabir{
-  left: 40%;
+/* .image:hover{
+  left: 55%; */
 
-}
+/* } */
 
 #para{
     font-style: italic;
